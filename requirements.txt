@@ -1,0 +1,11 @@
+h5py==3.10.0
+ipython==8.12.3
+lmdb==1.4.1
+mamba_ssm==1.0.1
+opencv_python==4.9.0.80
+PyYAML==6.0.1
+setuptools==65.5.0
+thop==0.1.1.post2209072238
+torch==2.1.2+cu121
+torchvision==0.16.2+cu121
+tqdm==4.64.1
